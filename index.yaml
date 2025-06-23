@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  data-scripts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-23T15:49:05.056523378Z"
+    description: A Helm chart for Kubernetes
+    digest: b63a79fa44824fa3b107cde7684721f285268c0ce4a396c968bed1134444f4f2
+    name: data-scripts
+    type: application
+    urls:
+    - https://github.com/Pineapple-Of-Evolution/helm-charts/releases/download/data-scripts-0.1.0/data-scripts-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-23T15:49:05.056533097Z"
