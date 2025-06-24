@@ -22,4 +22,30 @@ entries:
     urls:
     - https://github.com/Pineapple-Of-Evolution/helm-charts/releases/download/data-scripts-0.1.0/data-scripts-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-23T15:52:19.326854907Z"
+  nxs-universal-chart:
+  - apiVersion: v2
+    created: "2025-06-24T08:17:12.347037585Z"
+    description: Nixys universal Helm chart for deploy your apps to Kubernetes
+    digest: 6b33299cd031c35fe661c9681c18e813732d43e754e96f6b4929af71fe6f140e
+    maintainers:
+    - email: r.andreev@nixys.io
+      name: Roman Andreev
+    - email: a.zhideev@nixys.io
+      name: Anton Zhideev
+    - email: evg.krsk@gmail.com
+      name: Evgenii Tereshkov
+    - email: s@lavr.me
+      name: Sergey Lavrinenko
+    - email: v.sokhan@nixys.io
+      name: Viktor Sokhan
+    - email: gromrx1@gmail.com
+      name: Ruslan Gainanov
+    - email: a.danielyan@nixys.io
+      name: Artem Danielyan
+    - email: r.emelyanov@nixys.io
+      name: Roman Emelyanov
+    name: nxs-universal-chart
+    urls:
+    - https://github.com/Pineapple-Of-Evolution/helm-charts/releases/download/nxs-universal-chart-2.8.3/nxs-universal-chart-2.8.3.tgz
+    version: 2.8.3
+generated: "2025-06-24T08:17:12.347042925Z"
